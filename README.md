@@ -1,0 +1,1 @@
+A test application to see how elasticsearch works

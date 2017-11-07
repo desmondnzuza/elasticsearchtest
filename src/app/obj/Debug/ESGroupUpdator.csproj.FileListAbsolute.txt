@@ -1,0 +1,14 @@
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\ESGroupUpdator.exe.config
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\ESGroupUpdator.exe
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\ESGroupUpdator.pdb
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Dapper.dll
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Elasticsearch.Net.dll
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Nest.dll
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Dapper.xml
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Elasticsearch.Net.xml
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Nest.xml
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\obj\Debug\ESGroupUpdator.csprojResolveAssemblyReference.cache
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\obj\Debug\ESGroupUpdator.exe
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ESGroupUpdator\obj\Debug\ESGroupUpdator.pdb
